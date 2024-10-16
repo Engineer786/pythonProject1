@@ -1,6 +1,6 @@
 class Customer:
     bank_name = 'SBI'
-    min_bal = 10000
+    min_bal = 10000 
     def __init__(self):
         self.name = None
         self.amount = None
